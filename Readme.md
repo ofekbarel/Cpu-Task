@@ -1,6 +1,6 @@
 ##steps for Mac##
 
-1. ## install email-to with pip##
+1. ## install email-to with pip
 
 pip3 install email-to
 
@@ -22,3 +22,5 @@ python3 Cpu.py
 
 
 4. ## Check cpu_usage.log
+
+   open cpu_usage.log
